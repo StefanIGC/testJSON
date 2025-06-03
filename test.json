@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "Title": "624624624",
-        "Address": "",
+        "Address": "Domagkstraße 28, 80807 München",
         "Description": "test"
       },
       "geometry": {
@@ -17,7 +17,7 @@
       "type": "Feature",
       "properties": {
         "Title": "test",
-        "Address": "",
+        "Address": "900 Broadway, New York City, New York 10003, US",
         "Description": "test"
       },
       "geometry": {
@@ -41,7 +41,7 @@
       "type": "Feature",
       "properties": {
         "Title": "Riverland Ranch",
-        "Address": "1126 White Pine Lane, Harrisonburg, VA, 22801",
+        "Address": "833 E Michigan St #860, Milwaukee, WI 53202",
         "Description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam..."
       },
       "geometry": {
